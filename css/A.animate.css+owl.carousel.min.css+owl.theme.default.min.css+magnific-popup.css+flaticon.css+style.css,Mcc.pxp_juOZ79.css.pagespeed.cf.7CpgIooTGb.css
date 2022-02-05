@@ -5481,6 +5481,8 @@ form .button input:hover {
 @media only screen and (max-width: 600px) {
 .portfolio-wrap .img{
   height: 449px !important;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 
